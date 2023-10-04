@@ -1,0 +1,5 @@
+print("Ronit Satish Mehta SAP ID:- 60009230207")
+n = float(input("enter the number to convert to miles"))
+print("the value converted:-", n*0.62137119 )
+n1 = float((input("enter the number to convert to fahernit")))
+print("the value converted:-",  (n1 * 1.8) + 32)

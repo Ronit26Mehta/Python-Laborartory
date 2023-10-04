@@ -1,0 +1,10 @@
+print("Ronit Satish Mehta SAP ID: 60009230207")
+a = input("enter the variable A")
+b = input("enter the variable B")
+print("before swapping")
+print(a)
+print(b)
+a , b = b , a
+print("after swapping")
+print(a)
+print(b)
