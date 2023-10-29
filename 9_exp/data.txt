@@ -1,1 +1,14 @@
-name roll_no.
+name    roll_no
+Ronit	207
+
+jinit	203
+
+ronit	207
+
+rishi	204
+
+ankush	211
+
+ronit	207
+
+ankush	211
